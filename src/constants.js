@@ -3,7 +3,7 @@ export const scaleFactor = 4;
 export const dialogueData = {
   pc: `My workspace, This is where i spend my most of the time these days.
     I've made a couple of projects. I also like Java and Python. I am a probelm solver too. here is my leetcode profile - <a href = "https://leetcode.com/u/kunnuk2uk/">leetcode</a>.
-    and Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
+    and Here is my <a href="https://github.com/kv272" target="_blank">Github</a>!`,
   "cs-degree": `This will be my CS degree once i graduate. It is a very theoretical degree but I think it gave me a good foundation.`,
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
   I am learning full stack development these days.`,
